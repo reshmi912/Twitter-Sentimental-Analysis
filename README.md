@@ -17,10 +17,9 @@
 # Built With
 ### Anaconda- A web based environment to execute python files
 
-I have also made a youtube video to display the execution:- https://youtu.be/3bxGHYOeNZA
 
 # Authors
-### Allena Venkata Sai Abhishek
+### Allena Venkata Sri Reshmi
 
 # License
 ```diff
